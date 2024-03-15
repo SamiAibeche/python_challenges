@@ -17,8 +17,15 @@ $ python *test.py
 
 http://www.commitstrip.com/fr/2016/02/22/when-the-functional-tests-are-all-red/
 
-## # Acronym
+## 1) Hello World
+
+Write a program that greets the user by name
+
+[README](/python-hello-world/README.md)
+
+## 12) Acronym
 
 Convert a long phrase to its acronym
 
 [README](/python-acronym/README.md)
+
