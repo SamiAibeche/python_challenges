@@ -1,2 +1,24 @@
-# python_challenges
-Used for training purpose
+# Python challenges
+
+![Il buono, il brutto, il cattivo](bon-la-brute-et-le-trua-ii06-g.jpg)
+
+The exercises are ordered roughly in order of difficulty, but it's a bit
+haphazard.
+
+### How to run tests locally?
+
+```shell
+###  Install python:
+$ sudo apt-get install python
+
+###  Go inside your project folder and:
+$ python *test.py
+```
+
+http://www.commitstrip.com/fr/2016/02/22/when-the-functional-tests-are-all-red/
+
+## # Acronym
+
+Convert a long phrase to its acronym
+
+[README](/python-acronym/README.md)
