@@ -19,9 +19,17 @@ http://www.commitstrip.com/fr/2016/02/22/when-the-functional-tests-are-all-red/
 
 ## 1) Hello World
 
-Write a program that greets the user by name
+Write a program that greets the user by name, or by saying "Hello, World!" if no name is given.
 
 [README](/python-hello-world/README.md)
+
+## 2) Leap
+
+Write a program that will take a year and report if it is a leap year.
+
+[README](/python-leap/README.md)
+
+
 
 ## 12) Acronym
 
