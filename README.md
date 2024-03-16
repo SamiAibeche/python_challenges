@@ -29,6 +29,12 @@ Write a program that will take a year and report if it is a leap year.
 
 [README](/python-leap/README.md)
 
+## 3) Pangram
+
+Determine if a sentence is a pangram.
+
+[README](/python-pangram/README.md)
+
 ## 12) Anagram
 
 Write a program that, given a word and a list of possible anagrams, selects the correct sublist.
