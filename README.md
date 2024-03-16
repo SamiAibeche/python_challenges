@@ -29,9 +29,13 @@ Write a program that will take a year and report if it is a leap year.
 
 [README](/python-leap/README.md)
 
+## 12) Anagram
 
+Write a program that, given a word and a list of possible anagrams, selects the correct sublist.
 
-## 12) Acronym
+[README](/python-anagram/README.md)
+
+## 19) Acronym
 
 Convert a long phrase to its acronym
 
